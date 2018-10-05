@@ -7,7 +7,7 @@ package pruebagithub;
 
 /**
  *
- * @author
+ * @author Juan Carlos Romero Garcia
  */
 public class PruebaGitHub {
 
