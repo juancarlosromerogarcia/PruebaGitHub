@@ -17,6 +17,7 @@ public class PruebaGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Prueba para publicar un proyecto en GitHub");
+        System.out.println("");
     }
     
 }
